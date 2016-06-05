@@ -1350,7 +1350,7 @@ h3 {
     padding-bottom: 72px;
     position: relative;
     text-align: left;    
-    background-color: rgba(0,0,0,0.5);
+    background-color: rgba(0,0,0,0.6);
 }
 .banner-type1 .camera_caption:first-child::before{
     background: #f79323;
@@ -1372,6 +1372,7 @@ h3 {
 }
 .banner-type1 .camera_caption:nth-child(5){
     margin-left: 60px;
+    color: #fff;
 }
 .banner-type1 .camera_caption:nth-child(6){
     color: rgba(255,255,255,.50);
@@ -1383,6 +1384,11 @@ h3 {
     margin: 0px auto;
     padding-top: 130px;
     text-align: center;
+}
+
+.banner-type1 .camera_caption:nth-child(6) p{
+    color: #fff;
+    font-weight: 400;
 }
 .banner-type1 .camera_caption:nth-child(7){
     display: inline-block;
@@ -1400,11 +1406,11 @@ h3 {
     border-top-left-radius: 15px;
     border-bottom-right-radius: 15px;
     border-bottom-left-radius: 15px;    
-    background-color: rgba(240,81,39,0.2);
+    background-color: rgba(240,81,39,0.5);
 }
 
 .tp1-features-icon{
-    background: rgba(255,255,255,.10);
+    background: rgba(255,255,255,0.4);
     border-radius: 50%;
     height: 50px;
     margin-right: 20px;
