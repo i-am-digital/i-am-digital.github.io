@@ -2025,6 +2025,21 @@ content: "View more";
   line-height: 30px;
   padding-top: 7px;
 }
+.single-service-item p {
+    text-align: left;
+}
+
+.single-service-item ul {
+    padding-top: 20px;
+}
+
+.single-service-item li {
+    text-align: left;
+    list-style-type: disc;
+    list-style-position: inside;
+    padding-left: 50px;
+}
+
 
 /*--------End Services common css-----*/
 
@@ -2250,6 +2265,10 @@ content: "View more";
     position: absolute;
     bottom: 10px;
     z-index: 111;
+    color: #fff;
+    font-weight: 600;
+    font-size: 18px;
+    font-family: "Lato", sans-serif;
 }
 .mirrors-recent-item figure:hover .recent-work-hover-details{
     opacity: 1;
@@ -2266,7 +2285,7 @@ content: "View more";
 .mirrors-recent-item figure .recent-work-hover-details p{
     color: #999999;
     font-family: "Lato", sans-serif;
-    font-weight: 300;
+    font-weight: 400;
     font-size: 14px;
     
 }
