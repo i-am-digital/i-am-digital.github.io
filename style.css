@@ -1404,11 +1404,12 @@ h3 {
 
 .type1-features.uk-flex {
     padding: 5px;
-    border-top-right-radius: 15px;
-    border-top-left-radius: 15px;
-    border-bottom-right-radius: 15px;
     border-bottom-left-radius: 15px;    
-    background-color: rgba(240,81,39,0.5);
+    background-color: #f79323;
+}
+
+.camera_caption .uk-flex{
+        max-width:22%;
 }
 
 .tp1-features-icon{
