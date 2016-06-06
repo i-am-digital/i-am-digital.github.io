@@ -7108,6 +7108,16 @@ content: "View more";
     background: url(img/banner-images/banner-img4.jpg) no-repeat;
     background-size: cover;
 }
+.completed-page-content{
+    background: url(img/completed.jpg) no-repeat;
+    background-size: cover;    
+}
+
+.completed-container{
+    height: 100vh;
+    display: table;  
+}
+
 .erro-container{
     height: 100vh;
     display: table;
