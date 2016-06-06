@@ -73,6 +73,7 @@ Developed By : ABDUS SALAM
 body{
     margin: 0px;
     position: relative;
+    font-family: 'Lato', sans-serif;
 }
 p,h1,h2,h3,h4,h5,h6,a{
     margin: 0px;
@@ -1344,13 +1345,14 @@ h3 {
 .banner-type1 .camera_caption:first-child{
     color: #f79323;
     font-family: 'Audiowide', cursive;
-    font-size: 72px;
-    line-height: 72px;
+    font-size: 60px;
+    line-height: 65px;
     padding-top: 259px;
     padding-bottom: 72px;
     position: relative;
     text-align: left;    
     background-color: rgba(0,0,0,0.6);
+    padding-left: 50px;
 }
 .banner-type1 .camera_caption:first-child::before{
     background: #f79323;
@@ -2016,6 +2018,7 @@ content: "View more";
     font-size: 18px;
     line-height: 30px;
     text-transform: uppercase;
+    text-align: left;
 }
 .service-details-content p {
   color: #666666;
