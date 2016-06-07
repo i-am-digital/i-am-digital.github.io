@@ -1248,17 +1248,18 @@ h3 {
 
 .camera_caption {
     max-width: 1170px;
+    min-width: 247px;
     margin-left: calc(50% - 585px);
 }
 .camera_caption.banner2-heading {
     margin-top: 243px;
 }
-.banner1 .camera_caption > div{
+/*.banner1 .camera_caption > div{
     padding: 0px;
 }
 .banner2 .camera_caption > div{
     padding: 0px;
-}
+}*/
 
 .banner1 .camera_wrap .camera_pag .camera_pag_ul{
     -webkit-transform: rotate(90deg);
@@ -1404,7 +1405,6 @@ h3 {
 
 .type1-features.uk-flex {
     padding: 5px;
-    border-bottom-left-radius: 15px;    
     background-color: #f79323;
 }
 
@@ -2640,7 +2640,7 @@ content: "View more";
     margin-right: 12px;
 }
 .footer-social-icon ul li a{
-    color: #929292;
+    color:#f1f1f1;
     display: block;
     font-size: 23px;
 }
@@ -8324,6 +8324,10 @@ content: "View more";
     .clearfix > li:nth-child(4) {
         margin-top: 0px;
     }
+    .camera_caption {
+        display: none
+    }
+    
 
    
 }
