@@ -1261,7 +1261,7 @@ h3 {
     padding: 0px;
 }*/
 .camera_caption > div{
-    padding:0;
+    padding:0!important;
 }
 
 .banner1 .camera_wrap .camera_pag .camera_pag_ul{
