@@ -1351,7 +1351,7 @@ h3 {
     font-family: 'Audiowide', cursive;
     font-size: 60px;
     line-height: 65px;
-    padding-top: 259px;
+    padding-top: 200px;
     padding-bottom: 72px;
     position: relative;
     text-align: left;    
@@ -1388,7 +1388,7 @@ h3 {
     font-weight: 300;
     font-size: 14px;
     margin: 0px auto;
-    padding-top: 130px;
+    padding-top: 30px;
     text-align: center;
 }
 
@@ -1457,10 +1457,7 @@ h3 {
     top: 7px;
     width: 3px;
 }
-.banner-type1 .footer-social-icon{
-    position: absolute;
-    top: -20px;
-}
+
 .type1-features:hover .tp1-features-icon{
     -webkit-animation: rubberBand 1s linear;
     animation: rubberBand 1s linear;
