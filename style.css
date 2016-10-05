@@ -152,7 +152,7 @@ h3 {
 }
 
 .section-title p {
-    color: #999999;
+    color: #666;
     font-family: "Lato",sans-serif;
     font-size: 22px;
     font-weight: 300;
@@ -1040,7 +1040,7 @@ h3 {
     width: 100%;
 }
 .search-area input{
-    color: #999;
+    color: #666;
     font-family: "Lato",sans-serif;
     font-size: 14px;
     font-style: italic;
@@ -2289,7 +2289,7 @@ content: "View more";
     color: #f79323;
 }
 .mirrors-recent-item figure .recent-work-hover-details p{
-    color: #999999;
+    color: #666;
     font-family: "Lato", sans-serif;
     font-weight: 400;
     font-size: 14px;
@@ -2538,14 +2538,14 @@ content: "View more";
     padding-top: 12px;
 }
 .about-theme .about-theme-social-icon h6 span{
-    color: #999999;
+    color: #666;
     font-family: "Lato",sans-serif;
     font-weight: 300;
     font-style: italic;
     font-size: 14px;
 }
 .post-date-time p{
-    color: #999999;
+    color: #666;
     font-family: "Lato",sans-serif;
     font-weight: 300;
     font-size: 14px;
@@ -2625,14 +2625,14 @@ content: "View more";
     font-family: lato-black;
 }
 .footer-type1 .footer-top .footer-widget .copyright p{
-    color: #999999;
+    color: #666;
     font-family: "Lato",sans-serif;
     font-weight: 300;
     font-size: 14px;
     line-height: 18px;
 }
 .footer-type1 .footer-top .footer-widget .copyright p span a{
-  color: #999999;  
+  color: #666;  
 }
 .footer-type1 .footer-top .footer-widget .copyright p span a:hover{
     color: #f79323;
@@ -2680,7 +2680,7 @@ content: "View more";
     padding-top: 25px;
 }
 .footer-type1 .footer-top .footer-widget .widget-details p{
-    color: #999999;
+    color: #666;
     font-family: "Lato",sans-serif;
     font-size: 16px;
     font-weight: 300;
@@ -2703,7 +2703,7 @@ content: "View more";
 }
 
 .footer-type1 .footer-top .footer-widget .recent-post ul li a{
-    color: #999999;
+    color: #666;
     font-family: "Lato",sans-serif;
     font-weight: 400;
     font-size: 14px;
@@ -2720,7 +2720,7 @@ content: "View more";
     transition: all 0.5s linear 0s;
 }
 .footer-type1 .footer-top .footer-widget .recent-post .mirrors-btn1{
-    color: #666666;
+    color: #666;
     background: #333333;
     margin-top: 7px;
 }
@@ -2733,7 +2733,7 @@ content: "View more";
 }
 .footer-type1 .footer-top .footer-widget .contact-info p{
     border-bottom: 1px solid #3b3b3b;
-    color: #999999;
+    color: #666;
     font-family: "Lato",sans-serif;
     font-size: 16px;
     font-weight: 300;
@@ -2748,7 +2748,7 @@ content: "View more";
 }
 .footer-type1 .footer-top .footer-widget .contact-info ul li p{
     border-bottom: none;
-    color: #999999;
+    color: #666;
     font-family: "Lato",sans-serif;
     font-size: 16px;
     font-weight: 300;
@@ -2756,7 +2756,7 @@ content: "View more";
 }
 .footer-type1 .footer-top .footer-widget .contact-info ul li a{
    border-bottom: none;
-    color: #999999;
+    color: #666;
     font-family: "Lato",sans-serif;
     font-size: 16px;
     font-weight: 300;
@@ -2783,7 +2783,7 @@ content: "View more";
     margin-right: 35px;
 }
 .footer-type1 .footer-bottom ul li a {
-    color: #999999;
+    color: #666;
     display: block;
     font-family: "Lato", sans-serif;
     font-weight: 300;
@@ -3612,7 +3612,7 @@ content: "View more";
     color: #f79323;
 }
 .portfolio-large-hover-bar-text p{
-    color: #999999;
+    color: #666;
     font-family: "Lato",sans-serif;
     font-weight: 300;
     font-size: 14px;
@@ -3745,7 +3745,7 @@ content: "View more";
     border: 1px solid #fff;    
 }
 .partners-content ul li a figure img:hover{
-    border-color: #999999;
+    border-color: #666;
 }
 
 /*----one page partners carousel---------*/
@@ -3920,7 +3920,7 @@ content: "View more";
     line-height: 30px;
 }
 .activities-content p {
-    color: #999999;
+    color: #666;
     font-family: lato-hairline;
     font-size: 16px;
     line-height: 30px;
@@ -3996,7 +3996,7 @@ content: "View more";
     color: #f79323;
 }
 .timeline-area>ul>li .timeline-panel .timeline-body .blog-heading p{
-    color: #999999;
+    color: #666;
     font-family: "Lato",sans-serif;
     font-weight: 300;
     font-size: 14px;
@@ -4445,7 +4445,7 @@ content: "View more";
 .blog-reply-area .blog-reply-cmn-input{
     border: 1px solid #ccc;
     background: #f4f4f4;
-    color: #999;
+    color: #666;
     font-family: "Lato",sans-serif;
     font-weight: 300;
     font-size: 14px;
@@ -4756,7 +4756,7 @@ content: "View more";
 /*-------------Start eCommerce Sidebar----*/
 .sidebar-widget-title{}
 .sidebar-widget-title h4{
-    color: #999999;
+    color: #666;
     font-family: "Lato",sans-serif;
     font-weight: 700;
     font-size: 18px;
@@ -4779,7 +4779,7 @@ content: "View more";
     color: #f79323;
 }
 .category-list ul li a{
-    color: #999999;
+    color: #666;
     font-family: "Lato",sans-serif;
     font-weight: 400;
     font-size: 16px;
@@ -4796,7 +4796,7 @@ content: "View more";
     padding-bottom: 0px;
 }
 .category-list ul li> ul> li a{
-    color: #999999;
+    color: #666;
     font-family: "Laot",sans-serif;
     font-weight: 400;
     font-size: 16px;
@@ -4815,7 +4815,7 @@ content: "View more";
 }
 .collection-list ul li{}
 .collection-list ul li a{
-    color: #999999;
+    color: #666;
     font-family: "Lato",sans-serif;
     font-size: 16px;
     font-weight: 400;
@@ -4850,7 +4850,7 @@ content: "View more";
     display: none;
 }
 .all-sizes ul li label {
-    color: #999;
+    color: #666;
     display: inline-block;
     font-family: "Lato",sans-serif;
     font-size: 16px;
@@ -4893,7 +4893,7 @@ content: "View more";
 
 .mirrors-price-slider input{
     border: none;
-    color: #999999;
+    color: #666;
     font-family: "Lato",sans-serif;
     font-weight: 400;
     font-size: 16px;
@@ -5233,7 +5233,7 @@ content: "View more";
 .page-topper{}
 .page-topper .page-title{}
 .page-topper .page-title h2{
-    color: #999999;
+    color: #666;
     font-family: "Lato",sans-serif;
     font-weight: 700;
     font-size: 24px;
@@ -5249,7 +5249,7 @@ content: "View more";
     padding: 0;
 }
 .page-topper .bredcrumb-area ul li{
-    color: #999999;
+    color: #666;
     font-family: "Lato",sans-serif;
     font-weight: 300;
     font-size: 14px;
@@ -5257,7 +5257,7 @@ content: "View more";
     font-style: italic;   
 }
 .page-topper .bredcrumb-area ul li a{
-    color: #999999;
+    color: #666;
     font-family: "Lato",sans-serif;
     font-weight: 300;
     font-size: 14px;
@@ -6116,7 +6116,7 @@ content: "View more";
                  /-30.                       ----Start top Toolbar----
 *********************************************************************************************************************/
 .toolbar-left a {
-    color: #999999;
+    color: #666;
     font-family: "Lato",sans-serif;
     font-size: 12px;
     font-weight: 300;
@@ -6124,7 +6124,7 @@ content: "View more";
     text-transform: uppercase;
 }
 .toolbar-left a i{
-    color: #999999;
+    color: #666;
     font-size: 12px;
     padding-right: 9px;
 }
@@ -6158,7 +6158,7 @@ content: "View more";
 }
 .mirrors-top-toolbar .toolbar-right ul{}
 .mirrors-top-toolbar .toolbar-right ul li a {
-    color: #999999;
+    color: #666;
     display: block;
     font-family: "Lato",sans-serif;
     font-weight: 300;
@@ -6217,7 +6217,7 @@ content: "View more";
     width: 1px;
 }
 .toolbar-right-search a i{
-    color: #999999;
+    color: #666;
     font-size: 14px;
     line-height: 22px;   
 }
@@ -6256,13 +6256,13 @@ content: "View more";
     height: 76px;
 }
 .item-table-head-cell1 i {
-    color: #999;
+    color: #666;
     font-size: 20px;
     line-height: 56px;
 }
 
 .item-table-first-row td p {
-    color: #999;
+    color: #666;
     font-family: "Lato",sans-serif;
     font-size: 18px;
     font-weight: 700;
@@ -6325,7 +6325,7 @@ content: "View more";
 .item-cell4 input {
     border: 1px solid #999999;
     border-radius: 2px;
-    color: #999999;
+    color: #666;
     font-family: "Lato",sans-serif;
     font-size: 16px;
     font-weight: 400;
@@ -6360,7 +6360,7 @@ content: "View more";
 }
 .shopping-cart-bottom-area .mirrors-btn2{
     border-color: #999999;
-    color: #999999;
+    color: #666;
 }
 
 .cart-button button.mirrors-btn2 {
@@ -6406,7 +6406,7 @@ content: "View more";
 }
 .shopping-cart-bottom-area .mirrors-btn2:first-child:before{
     content: "Update Cart";
-    color: #999999;
+    color: #666;
 }
 .shopping-cart-bottom-area .mirrors-btn2:nth-child(2){
     margin-right: 0px;
@@ -6416,7 +6416,7 @@ content: "View more";
 }
 .shopping-cart-bottom-area .mirrors-btn2:nth-child(2):before{
     content: "checkout";
-    color: #999999;
+    color: #666;
 }
 .shipping-totals{
     margin-top: 26px;
@@ -6533,7 +6533,7 @@ content: "View more";
     text-transform: uppercase;
 }
 .cart-subtotal ul li p{
-    color: #999999;
+    color: #666;
     font-family: "Lato",sans-serif;
     font-size: 14px;
     font-weight: 400;
@@ -6834,7 +6834,7 @@ content: "View more";
     width: 100px;
 }
 .size-button a {
-    color: #999999;
+    color: #666;
     display: block;
     font-family: "Lato",sans-serif;
     font-size: 12px;
@@ -6890,7 +6890,7 @@ content: "View more";
 .size-tag ul li:last-child a {
     background: #fff none repeat scroll 0 0;
     border: 1px solid #999999;
-    color: #999;
+    color: #666;
     height: 19px;
     line-height: 18px;
     padding-left: 16px;
@@ -6931,7 +6931,7 @@ content: "View more";
     padding-bottom: 12px;
 }
 .item-custom-wear .item-wear-title h4{
-    color: #999999;
+    color: #666;
     font-family: "Lato",sans-serif;
     font-weight: 700;
     font-size: 18px;
